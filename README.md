@@ -1,6 +1,6 @@
- # Machine-Learning
+# Machine-Learning
 
-OLS_Lasso_KRR.ipynb includes
+# OLS_Lasso_KRR.ipynb includes
 *Regression Algotithms*
 
 Downloaded 'regression_data.csv' dataset and identified the best model for the data from the following set of possible models:
@@ -13,7 +13,7 @@ Downloaded 'regression_data.csv' dataset and identified the best model for the d
   c.isotoptic gaussian kernel with coefficient sigma of either 0.1, 0.5, 1, 2, 4
 
 
-KRR_LoogisticRegression_SVM.ipynb
+# KRR_LoogisticRegression_SVM.ipynb
 *Classification Algorithms*
 Downloaded 'classification_data.tsv' and identified the best model for the data from the following set of possible models:
 
@@ -25,7 +25,7 @@ Downloaded 'classification_data.tsv' and identified the best model for the data 
 3.Hard margin SVM
 4.Soft margin SVM with a coefficient of either 0.1, 0.5, 1, 2, 5
 
-KRR_Loogistic_SVM2.ipynb
+# KRR_Loogistic_SVM2.ipynb
 *Classification Algorithm*
 
 Downloaded 'classification_data2.txt' and identified the best model for the data from the following set of possible models:
