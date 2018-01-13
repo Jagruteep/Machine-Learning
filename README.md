@@ -15,6 +15,7 @@ Downloaded 'regression_data.csv' dataset and identified the best model for the d
 
 # KRR_LoogisticRegression_SVM.ipynb
 *Classification Algorithms*
+
 Downloaded 'classification_data.tsv' and identified the best model for the data from the following set of possible models:
 
 1.Kernalized Ridge Regression with a regularization coefficient of 1 and 
@@ -29,6 +30,7 @@ Downloaded 'classification_data.tsv' and identified the best model for the data 
 *Classification Algorithm*
 
 Downloaded 'classification_data2.txt' and identified the best model for the data from the following set of possible models:
+
 1.Kernalized Ridge Regression with a regularization coefficient of 1 and 
   a. linear kernal
   b. polynomial kernels with coefficients gamma = 1, r = 1, and M of either 2, 3, 4
