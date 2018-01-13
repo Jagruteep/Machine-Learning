@@ -13,7 +13,7 @@ Downloaded 'regression_data.csv' dataset and identified the best model for the d
               
               b. polynomial kernels with coefficients gamma = 1, r = 1, and M of either 2, 4, 7
               
-              c.isotoptic gaussian kernel with coefficient sigma of either 0.1, 0.5, 1, 2, 4
+              c. isotoptic gaussian kernel with coefficient sigma of either 0.1, 0.5, 1, 2, 4
 
 
 # KRR_LoogisticRegression_SVM.ipynb
