@@ -19,8 +19,11 @@ Downloaded 'regression_data.csv' dataset and identified the best model for the d
 Downloaded 'classification_data.tsv' and identified the best model for the data from the following set of possible models:
 
 1.Kernalized Ridge Regression with a regularization coefficient of 1 and 
+  
   a. linear kernal
+  
   b. polynomial kernels with coefficients gamma = 1, r = 1, and M of either 2, 3
+  
   c. isotoptic gaussian kernel with coefficient sigma of either 0.1, 0.5, 1, 2, 4
   
 2.Logistic Regression
@@ -35,9 +38,15 @@ Downloaded 'classification_data.tsv' and identified the best model for the data 
 Downloaded 'classification_data2.txt' and identified the best model for the data from the following set of possible models:
 
 1.Kernalized Ridge Regression with a regularization coefficient of 1 and 
+  
   a. linear kernal
+  
   b. polynomial kernels with coefficients gamma = 1, r = 1, and M of either 2, 3, 4
+  
   c. isotoptic gaussian kernel with coefficient sigma of either 0.1, 0.5, 1, 2, 4
+  
 2.Logistic Regression
+
 3.Hard margin SVM
+
 4.Soft margin SVM with a coefficient of either 0.1, 0.5, 1, 2, 5
