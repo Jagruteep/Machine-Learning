@@ -22,8 +22,11 @@ Downloaded 'classification_data.tsv' and identified the best model for the data 
   a. linear kernal
   b. polynomial kernels with coefficients gamma = 1, r = 1, and M of either 2, 3
   c. isotoptic gaussian kernel with coefficient sigma of either 0.1, 0.5, 1, 2, 4
+  
 2.Logistic Regression
+
 3.Hard margin SVM
+
 4.Soft margin SVM with a coefficient of either 0.1, 0.5, 1, 2, 5
 
 # KRR_Loogistic_SVM2.ipynb
